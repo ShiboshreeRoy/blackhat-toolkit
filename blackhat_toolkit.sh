@@ -8,7 +8,7 @@
 # ▌▀▀     ▌▀▀▀▀▀▀▌▀▀▄  ▀▀▌▀▀▀▀▀▌▀▀▄  ▀▀▌   ▀▀▄   ▀▀▄  ▀▀▌
 
 # BlackHat Bash Toolkit - Advanced Version
-# Author: Your Name | For ethical hacking labs only
+# Author: Shiboshree Roy | For ethical hacking labs only
 
 # Color definitions
 RED='\033[0;31m'
